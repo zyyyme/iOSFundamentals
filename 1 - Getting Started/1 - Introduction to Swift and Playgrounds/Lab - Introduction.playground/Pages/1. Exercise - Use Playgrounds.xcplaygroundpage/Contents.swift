@@ -10,12 +10,13 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
-
+print("AC/DC -- Back in Black")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
+print("Back in black, I hit the sack")
+print("I've been too long, I'm glad to be back")
+print("Yes, I'm let loose from the noose")
 
 
 /*:
